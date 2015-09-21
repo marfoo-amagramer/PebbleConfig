@@ -1,0 +1,28 @@
+{
+    "appKeys": {
+        "KEY_COLOR_BLUE": 2,
+        "KEY_COLOR_GREEN": 1,
+        "KEY_COLOR_RED": 0,
+        "KEY_HIGH_CONTRAST": 3
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "longName": "slate-example",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "slate-example",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "a2ae5e8d-42b0-4f63-a967-b9fe6d1dfeaa",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
